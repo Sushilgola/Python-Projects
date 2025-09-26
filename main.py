@@ -1,3 +1,5 @@
+# FIND THE RANDOM NUMBER & SUGGEST THAT I # # # WILL GREATER OR LESSER.
+
 import random
 
 chance = 0
